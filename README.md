@@ -7,7 +7,7 @@ This repository contains the Secure Instant Messaging **student work of HE2B ESI
 
 ## Report
 
-[Rapport.pdf](https://github.com/neod/SECG4-InstantMessaging/blob/master/Rapport.pdf)
+[Rapport.pdf](https://github.com/onra2/Instant-messaging/blob/main/Rapport.pdf)
 
 ## Dependencies
 This application work with .NET 5 framework, Entity Framework core tools and MariaDB/MySQL server (SQLite for dev only).
