@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "instantMessagingClient", "instantMessagingClient\instantMessagingClient.csproj", "{1821983C-25DB-4B22-8913-655438829879}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "instantMessagingCore", "..\instantMessagingCore\instantMessagingCore\instantMessagingCore.csproj", "{90420B22-E7BD-42A3-AC91-5B26927F1341}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1821983C-25DB-4B22-8913-655438829879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1821983C-25DB-4B22-8913-655438829879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1821983C-25DB-4B22-8913-655438829879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1821983C-25DB-4B22-8913-655438829879}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90420B22-E7BD-42A3-AC91-5B26927F1341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90420B22-E7BD-42A3-AC91-5B26927F1341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90420B22-E7BD-42A3-AC91-5B26927F1341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90420B22-E7BD-42A3-AC91-5B26927F1341}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7215D549-3096-4473-9E5B-910C3FA0737C}
+	EndGlobalSection
+EndGlobal
